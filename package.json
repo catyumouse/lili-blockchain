@@ -1,0 +1,20 @@
+{
+  "name": "lili-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catyumouse/lili-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catyumouse/lili-blockchain/issues"
+  },
+  "homepage": "https://github.com/catyumouse/lili-blockchain#readme"
+}
