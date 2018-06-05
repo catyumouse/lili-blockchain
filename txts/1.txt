@@ -1,0 +1,5 @@
+web3.js 里面包含了多个以太坊生态中不同功能的模块
+1. web3-eth    Javascript 和以太坊区块链通信，部署、调用智能合约
+2.web3-utils.   为 DApp 开发者提供了大量的工具函 如单位换算
+3.web3-shh.     方便做基于 whisper 协议的 P2P 通信和广播
+4.web3-bzz.     方便做基于 swarm 协议的去中心化文件存储

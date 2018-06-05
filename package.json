@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/catyumouse/lili-blockchain/issues"
   },
-  "homepage": "https://github.com/catyumouse/lili-blockchain#readme"
+  "homepage": "https://github.com/catyumouse/lili-blockchain#readme",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
 }
